@@ -1,0 +1,31 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Tokyo Night",
+    "workbench.sideBar.location": "right",
+    "editor.fontFamily": "'Fira Code', monospace",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.visible": false,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDelete": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.productIconTheme": "fluent-icons"
+}
